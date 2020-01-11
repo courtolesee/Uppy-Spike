@@ -8,6 +8,9 @@ This is a mini project to figure out and get comfortable using Uppy photo upload
 1. npm install @uppy/react
 2. imports:
     > import React from 'react'
+
     > import Uppy from '@uppy/core'
+
     > import Tus from '@uppy/tus'
+    
     > import { DragDrop } from '@uppy/react'
